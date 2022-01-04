@@ -29,7 +29,7 @@ The math supporting this code can be viewed in this draft in progress [Overleaf 
 - Supported convective numerical fluxes: Lax-Friedrichs, Roe (Harten's entropy fix) for Euler, InProgress: Split-Form
 - Supported diffusive numerical fluxes: Symmetric Interior Penalty, Bassi-Rebay's 2nd formulation (BR2)
 - Supported elements: LINEs, QUADs, HEXs since it uses deal.II
-- Supported refinements: h (size) or p (order) (InProgress).
+- Supported refinements: h (size) or p (order) (InProgress). 
 
 ## Documentation
 
