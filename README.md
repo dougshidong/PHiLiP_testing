@@ -19,7 +19,7 @@
 
 The [P]arallel [Hi]gh-Order [Li]brary for [P]DEs (PHiLiP) uses Discontinuous Galerkin methods to solve convection-diffusion problems.
 
-The math supporting this code can be viewed in this draft in progress** [Overleaf document](https://www.overleaf.com/read/mytvbbbbyqnj).
+The math supporting this code can be viewed in this draft in progress [Overleaf document](https://www.overleaf.com/read/mytvbbbbyqnj).
 
 ## Code Description
 - Code uses deal.II library as the backbone (https://www.dealii.org/)
